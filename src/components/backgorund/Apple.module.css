@@ -1,0 +1,14 @@
+
+.content{
+  width: 100%;
+  margin-top: 70px;
+}
+.content img {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 800px) {
+  .content img {
+    width: 100%;
+  }
+}
